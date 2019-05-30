@@ -1,4 +1,4 @@
-# nanoHTTP - Ein einfacher eindindbarer Webserver
+# nanoHTTP - Ein einfacher einbindbarer Webserver
 
 Was gerade Windowsprogrammierern missfällt ist der Gedanke, eine Anwendung über das Netzwerk mit sich selbst oder dem eigenen System kommunizieren zu lassen. Und in den meisten fällen ist das auch garnicht nötig. Zumindest mit Windows nicht. Die grafische Benutzeroberfläche einer Linuxdistribution hingegen hat keine andere Wahl. Dort gehört es zum Systemkonzept, das die Clientanwendungen ihre Benutzeroberfläche anzeigen, in dem sie mit einem Server kommunizieren, der sich meist auf dem gleichen System befindet.
 
