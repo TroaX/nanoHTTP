@@ -34,7 +34,7 @@ Die IP-Maske, welche Zugriff auf den Server haben darf. Als Standard ist hier **
 
 ### nanoHTTP::DefaultFile
 
-Diese Option gibt die Standard-Datei an, die aus Dateisystem oder Archiv aufgerufen wird, wenn keine Datei in der URL angegeben und keine Prozedur existiert. Als Standard ist hier wie gewohnt **index.php** gesetzt.
+Diese Option gibt die Standard-Datei an, die aus Dateisystem oder Archiv aufgerufen wird, wenn keine Datei in der URL angegeben und keine Prozedur existiert. Als Standard ist hier wie gewohnt **index.html** gesetzt.
 
 ## Prozeduren für die Prozedur
 
