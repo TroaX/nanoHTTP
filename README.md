@@ -1,5 +1,9 @@
 # nanoHTTP - Ein einfacher einbindbarer Webserver
 
+**WICHTIG: Ich habe die Arbeit mit PureBasic vorerst gestoppt. Ich bin aktuell nicht zufrieden mit den Möglichenkeiten, die mir PureBasic für solche Projekte zur Verfügung stellt. Es sind also keine Updates zu erwarten.**
+
+**IMPORTANT: I stopped working with PureBasic for the time being. I'm currently not satisfied with the possibilities that PureBasic gives me for such projects. So no updates are to be expected.**
+
 Was gerade Windowsprogrammierern missfällt ist der Gedanke, eine Anwendung über das Netzwerk mit sich selbst oder dem eigenen System kommunizieren zu lassen. Und in den meisten fällen ist das auch garnicht nötig. Zumindest mit Windows nicht. Die grafische Benutzeroberfläche einer Linuxdistribution hingegen hat keine andere Wahl. Dort gehört es zum Systemkonzept, das die Clientanwendungen ihre Benutzeroberfläche anzeigen, in dem sie mit einem Server kommunizieren, der sich meist auf dem gleichen System befindet.
 
 Seit Jahren steigt der Trend, modernere Benutzeroberflächen mit Hilfe von Webtechnologien zu realisieren. Nun stellt sich die Frage aber: Wie macht man das am besten? Ein Browser-Steuerelement steht bereits seit Ewigkeiten den Programmierern in nahezu jeder Sprache zur Verfügung. Auch in Purebasic ist das WebGadget fester Bestandteil. Der Nachteil daran ist nur, das dieses Steuerelement kaum eine Möglichkeit bietet, mit der Host-Applikation zu kommunizieren. Mit dem aus dem Purebasic-Forum frisch veröffentlichten ExWebGadget auf Chromium-Basis ist es zwar möglich, aus Purebasic heraus auf Javascript-Funktionen/-Methoden oder umgekehrt zu zugreifen. Aber zum einen ist dieses Gadget ausschließlich auf Windows lauffähig und zum anderen benötigt es das .NET Framework.
